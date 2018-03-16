@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Boa Viagem</string>
     <string name="action_settings">Settings</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="botao">Entrar</string>
+    <string name="erroAutenticacao">Erro na Autenticação!</string>
+
 </resources>
