@@ -5,5 +5,9 @@
     <string name="senha">Senha</string>
     <string name="botao">Entrar</string>
     <string name="erroAutenticacao">Erro na Autenticação!</string>
+    <string name="gasto">Gastos</string>
+    <string name="viagem">Nova Viagem</string>
+    <string name="Minhaviagem">Minhas Viagens</string>
+    <string name="Configurações">Configurações</string>
 
 </resources>
